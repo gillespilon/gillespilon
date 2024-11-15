@@ -1,4 +1,4 @@
-I am Gilles Pilon, professional engineer. I am a Python developer, machine learning engineer, and data scientist.
+I am Gilles Pilon, professional engineer, a Python developer, machine learning engineer, and data scientist.
 
 # Online profiles
 
